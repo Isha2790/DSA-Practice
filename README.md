@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0328-odd-even-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
