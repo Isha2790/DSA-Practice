@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0328-odd-even-linked-list) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
