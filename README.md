@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
+| [0400-nth-digit](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0400-nth-digit) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
