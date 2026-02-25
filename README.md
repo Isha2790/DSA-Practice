@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0400-nth-digit) |
 ## String
