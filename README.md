@@ -37,6 +37,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0400-nth-digit) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
