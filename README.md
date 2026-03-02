@@ -27,6 +27,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0086-partition-list) |
 | [0328-odd-even-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0086-partition-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
