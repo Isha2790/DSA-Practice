@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0319-bulb-switcher) |
