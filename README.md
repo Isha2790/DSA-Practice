@@ -25,6 +25,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0086-partition-list) |
@@ -35,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0172-factorial-trailing-zeroes) |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
