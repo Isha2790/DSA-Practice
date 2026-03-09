@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0001-two-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Tree
 |  |
@@ -78,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0001-two-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
