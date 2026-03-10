@@ -89,8 +89,14 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
