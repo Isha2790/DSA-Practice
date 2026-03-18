@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
