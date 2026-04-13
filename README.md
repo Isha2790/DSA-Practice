@@ -59,6 +59,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0678-valid-parenthesis-string](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0678-valid-parenthesis-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@
 | [0155-min-stack](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0678-valid-parenthesis-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
