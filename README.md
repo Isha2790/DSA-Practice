@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Tree
@@ -91,6 +92,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -119,6 +121,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
@@ -134,4 +137,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0678-valid-parenthesis-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
