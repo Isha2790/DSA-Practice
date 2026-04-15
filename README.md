@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0678-valid-parenthesis-string](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0678-valid-parenthesis-string) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0232-implement-queue-using-stacks) |
@@ -130,6 +132,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0678-valid-parenthesis-string) |
