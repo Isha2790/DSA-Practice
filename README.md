@@ -75,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0035-search-insert-position) |
 | [0400-nth-digit](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0633-sum-of-square-numbers) |
 ## Brainteaser
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0035-search-insert-position) |
 | [0119-pascals-triangle-ii](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
