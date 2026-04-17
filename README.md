@@ -46,6 +46,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0633-sum-of-square-numbers) |
@@ -60,6 +61,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
+| [0224-basic-calculator](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
