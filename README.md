@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0189-rotate-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0283-move-zeroes) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
