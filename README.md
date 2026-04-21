@@ -46,6 +46,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0224-basic-calculator) |
 | [0319-bulb-switcher](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0400-nth-digit) |
@@ -71,6 +72,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0633-sum-of-square-numbers) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -99,6 +101,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0283-move-zeroes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
