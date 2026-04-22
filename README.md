@@ -12,10 +12,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
@@ -25,6 +27,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Linked List
 |  |
@@ -118,6 +121,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0224-basic-calculator) |
