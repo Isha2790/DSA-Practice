@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [2615-sum-of-distances](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2615-sum-of-distances) |
 ## Tree
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2615-sum-of-distances) |
 ## Recursion
 |  |
 | ------- |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
