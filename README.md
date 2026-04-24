@@ -14,21 +14,25 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Linked List
 |  |
