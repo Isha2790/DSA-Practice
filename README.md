@@ -76,6 +76,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2833-furthest-point-from-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
+| [2833-furthest-point-from-origin](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2833-furthest-point-from-origin) |
 ## Union-Find
 |  |
 | ------- |
