@@ -110,6 +110,7 @@
 | [0001-two-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0678-valid-parenthesis-string) |
@@ -174,6 +176,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
 ## Counting
 |  |
