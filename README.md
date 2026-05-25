@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0242-valid-anagram) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2615-sum-of-distances](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2615-sum-of-distances) |
 ## Tree
@@ -77,6 +78,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
