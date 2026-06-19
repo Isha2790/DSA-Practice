@@ -127,6 +127,7 @@
 | [0217-contains-duplicate](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/0283-move-zeroes) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1732-find-the-highest-altitude](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -204,5 +205,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/1732-find-the-highest-altitude) |
 | [2615-sum-of-distances](https://github.com/Isha2790/-GViswanathan-Challenge/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
